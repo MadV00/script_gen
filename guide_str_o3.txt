@@ -1,0 +1,254 @@
+====================================================================
+EXHAUSTIVE GUIDE #1  
+For Generating the Script:  
+“A Night at the Water-Hole:  You, a First Australian, Running the Pleistocene Predator Gauntlet”  
+====================================================================
+
+--------------------------------------------------------------------
+1.  MINI-VIDEO FOCUS & FACTUAL GROUNDING
+--------------------------------------------------------------------
+•  Central theme: An embodied, moment-to-moment night-time ordeal of “you,” a newly arrived Pleistocene human in Australia (~60,000–45,000 ya), forced to drink at a shrinking outback water-hole while every apex predator described in the Extracted Information takes turns trying to eat you.  
+•  The script-writing LLM MUST use ONLY the facts below for historical accuracy (drawn verbatim from the Extracted Information). All style, humor, structure, and persona rules come from THIS GUIDE, never from the source text.  
+
+Key facts to integrate (re-phrase freely):  
+  – Water-holes are vital but ambush hotspots.  
+  – Predators present: Quinkana (land croc), Megalania (giant monitor), Wonambi (giant constrictor), Thylacoleo carnifex (marsupial lion).  
+  – Quinkana sprints on long legs, can still swim.  
+  – Megalania uses venomous, anticoagulant saliva.  
+  – Wonambi crushes and tears prey; waits near water.  
+  – Thylacoleo ambushes from trees/ledges; drags kills upward.  
+  – Extreme drought concentrates prey and hunters.  
+  – Humans fend off threats with fire, tracking skills, and cooperation.  
+
+--------------------------------------------------------------------
+2.  PERSONA:  “The Calmly Cynical Historian”
+--------------------------------------------------------------------
+Voice & Delivery  
+  – Slow, smooth, near-monotone; words spaced for relaxation.  
+  – Zero excitement ; let horrifying facts do the shocking.  
+
+Attitude  
+  – World-weary, darkly amused at the absurdity of “your” plight.  
+  – Detests romantic myth-making about “noble prehistory.”  
+
+Address & Embodiment (MANDATORY)  
+  – Always speak to the listener AS IF they ARE the First Australian individual, with NO modern knowledge.  
+  – Never break embodiment; no time-travel jokes.  
+
+Language & Tone  
+  – Sensory: metallic taste of fear, acrid camp-smoke, fetid mud, distant bone-crack.  
+  – Short, sudden sardonic comments = humor punches.  
+
+--------------------------------------------------------------------
+3.  OVERALL SCRIPT STRUCTURE & WORD BUDGET (Target ≈4,500 words)
+--------------------------------------------------------------------
+A. INTRO (≈150 words)  
+  – Lull the listener with the promise of cool water, then snap to the realisation that every ripple hides teeth.  
+  – Set up the night-long vigil premise.  
+
+B. BODY = 5 SUB-TOPICS (≈780 words each = 3,900 words total)  
+  1. Thirst:  The Relentless Summons  
+  2. Quinkana:  Sprinting Saw-Mouth on Two Dozen Hoof-Toes  
+  3. Megalania:  Venom in the Moonlight  
+  4. Wonambi:  Silence That Crushes  
+  5. Thylacoleo:  Death Drops from the Trees  
+
+C. CONCLUSION (≈450 words)  
+  – Dawn arrives. Count the wounds, count your remaining companions, note the carcasses.  
+  – One last bleak punchline: the sun merely resets the cycle.  
+  – End with a twisted lullaby: “Sleep tight—at least the daylight hunters give you a sporting chance.”  
+
+--------------------------------------------------------------------
+4.  SUB-TOPIC TEMPLATE & INTERNAL FLOW DIRECTIVES
+--------------------------------------------------------------------
+For EACH of the 5 sub-topics:  
+A.  OPEN with an Internal Curiosity Gap  
+    Example: “Why does the mud feel…warm?” (implies corpse or predator beneath).  
+B.  DEVELOP Narrative (embodied, sensory, historically grounded).  
+C.  PATTERN-INTERRUPT HUMOR (see Section 5).  
+D.  CLOSE the Curiosity Gap (reveal: Quinkana basked below surface).  
+E.  TRANSITIONAL Curiosity Gap to next sub-topic  
+    Example: “But the real problem isn’t the jaws in the water—it’s the claws now scraping bark above your head…”  
+
+--------------------------------------------------------------------
+5.  HUMOR RULES (PATTERN-INTERRUPT ONLY)
+--------------------------------------------------------------------
+•  No joke set-ups. Deliver bleak punchlines mid-drone:  
+  “You sip. Something else sips you.”  
+•  Keep sarcasm dry, one-sentence zingers.  
+•  Humor MUST reference “your” direct bodily risk or misery.  
+•  No modern comparisons unless absolutely microscopic (“soap—whatever that is—would help with the smell, probably”).  
+
+--------------------------------------------------------------------
+6.  SIMPLIFIED NAMING
+--------------------------------------------------------------------
+•  After initial mention, say “the land-croc,” “the giant lizard,” “the python-thing,” “the tree-lion.”  
+•  Reserve scientific names only for first appearance.  
+
+--------------------------------------------------------------------
+7.  SUB-TOPIC OUTLINES & KEY CONTENT POINTS
+--------------------------------------------------------------------
+1. THIRST: THE RELENTLESS SUMMONS  
+   •  Drought; cracked earth; dwindling gourds.  
+   •  Social tension in the band; drawing straws for night water run.  
+   •  Smell of stagnant pond; fire embers carried for light & deterrence.  
+2. QUINKANA: SPRINTING SAW-MOUTH  
+   •  Description of long-legged croc silhouette in starlight.  
+   •  Evolutionary oddity: hoof-like toes, serrated teeth.  
+   •  Failed human tactics—throwing spears bounce off osteoderms.  
+   •  It can also swim: your clever “water escape” is useless.  
+3. MEGALANIA: VENOM IN THE MOONLIGHT  
+   •  Brush rustles; cold yellow eyes.  
+   •  Ambush leap, claws hook flesh.  
+   •  Venom detail—bleeding that never clots, days of sepsis.  
+   •  Fire as momentary repellent; smoke stings your own eyes more.  
+4. WONAMBI: SILENCE THAT CRUSHES  
+   •  Waiting just off the path back to camp.  
+   •  Constrictive force; ribs crack like dry twigs.  
+   •  Teeth tear chunks; can’t swallow whole.  
+   •  Human tactic: stabbing the coils, risk of cutting allies.  
+5. THYLACOLEO: DEATH DROPS FROM THE TREES  
+   •  Quiet canopy above the overhang.  
+   •  Thumb-claw punctures skulls; bite pressure commentary.  
+   •  Drags carcass upward—gravity your final indignity.  
+   •  Competition with Megalania at kill sites.  
+
+--------------------------------------------------------------------
+8.  ADDITIONAL NON-NEGOTIABLE DIRECTIVES
+--------------------------------------------------------------------
+•  Maintain second-person singular throughout.  
+•  Never lecture; always narrate lived experience.  
+•  Use curiosity gaps exactly as specified.  
+•  Meet word counts within ±10 %.  
+
+====================================================================
+EXHAUSTIVE GUIDE #2  
+For Generating the Script:  
+“Quinkana: You ARE Australia’s Land Crocodile—Terror with Legs”  
+====================================================================
+
+--------------------------------------------------------------------
+1.  MINI-VIDEO FOCUS
+--------------------------------------------------------------------
+Embodied perspective of the apex predator itself. The listener IS the Quinkana, navigating drought-ridden floodplains, competing with Megalania & marsupial lions, forever hungry.
+
+--------------------------------------------------------------------
+2.  PERSONA & EMBODIMENT
+--------------------------------------------------------------------
+Same Calmly Cynical Historian voice; address the listener as the croc. Emphasise predatory instincts, limited reptilian cognition, relentless survival calculus.
+
+--------------------------------------------------------------------
+3.  STRUCTURE & WORD BUDGET (≈4,000 words)
+--------------------------------------------------------------------
+Intro 150 | 5 sub-topics @ 680 each | Conclusion 450.
+
+--------------------------------------------------------------------
+4.  SUB-TOPICS & KEY POINTS
+--------------------------------------------------------------------
+1. Built for Dry Land  
+   – Long legs, hoof-like toes; heat shimmer on scales.  
+   – Problem: sprinting dehydrates you quickly.  
+2. Hunting Strategy  
+   – Stalking diprotodon calves; sideways approach.  
+   – One-bite slicer teeth.  
+3. Sharing—or Not—With Megalania  
+   – Clash at carcass; tail whip vs venomous jaws.  
+   – Humor punch: you both bleed, nobody wins.  
+4. Water That Lies  
+   – You can swim, but drought leaves toxic puddles.  
+   – Parasites chew your cloaca—describe itch.  
+5. Extinction on the Horizon  
+   – Humans’ fire lines limit ambush cover.  
+   – Prey thinning; your hatchlings seldom reach meter-length.  
+
+--------------------------------------------------------------------
+5.  HUMOR & CURIOUSITY
+--------------------------------------------------------------------
+Reptilian cynicism: “Thought you ruled? Watch a hairless ape with fire disagree.”
+
+--------------------------------------------------------------------
+6.  SPECIFIC DIRECTIVES
+--------------------------------------------------------------------
+•  Avoid advanced reasoning; keep internal monologue primal.  
+•  Never call yourself “crocodile” after intro; use “you,” “this hide,” “these jaws.”  
+
+====================================================================
+EXHAUSTIVE GUIDE #3  
+For Generating the Script:  
+“Eggs of Doom: You, a First Australian, Raiding Genyornis Nests”  
+====================================================================
+
+--------------------------------------------------------------------
+1.  MINI-VIDEO FOCUS
+--------------------------------------------------------------------
+Listener embodies a hungry human collecting thunder-bird eggs at dawn; territorial adult birds, other predators, and the moral comedy of stealing future breakfasts.
+
+--------------------------------------------------------------------
+2.  STRUCTURE (≈3,800 words)
+--------------------------------------------------------------------
+Intro 150 | 5 sub-topics @ 640 | Conclusion 450.
+
+--------------------------------------------------------------------
+3.  SUB-TOPICS & KEY CONTENT
+--------------------------------------------------------------------
+1. Finding the Nesting Grounds  
+   – Tracking giant footprints; sulphuric bird dung smell.  
+2. Massive Eggs, Tiny Hopes  
+   – Weight, shell thickness; fatigue carrying them.  
+3. Angry Parents  
+   – Adult Genyornis kick-force; hooked beaks.  
+   – Humor: bone counted later—yours.  
+4. Cooking Without Exploding  
+   – Fire pit technique; shells pop like rockfall.  
+   – First taste of over-boiled sulphur custard.  
+5. Echoes of Extinction  
+   – Over-harvesting + drought = population crash.  
+   – Your laughter at the last nest is…short-sighted.  
+
+--------------------------------------------------------------------
+4.  HUMOR STYLE
+--------------------------------------------------------------------
+Punchlines around the absurd fragility of your clan versus the bird’s straightforward rage.
+
+====================================================================
+EXHAUSTIVE GUIDE #4  
+For Generating the Script:  
+“Thirst and Dread: Surviving a Pleistocene Drought Refuge”  
+====================================================================
+
+--------------------------------------------------------------------
+1.  MINI-VIDEO FOCUS
+--------------------------------------------------------------------
+Listener IS a First Australian pushed into a rocky gorge “refugium” during multi-year drought. Resources scarce, predators and megafauna pile in.
+
+--------------------------------------------------------------------
+2.  STRUCTURE (≈4,200 words)
+--------------------------------------------------------------------
+Intro 150 | 5 sub-topics @ 720 | Conclusion 450.
+
+--------------------------------------------------------------------
+3.  SUB-TOPICS & CORE POINTS
+--------------------------------------------------------------------
+1. The Land Dries to Bone  
+   – Crackling plants; air tastes of dust.  
+2. Refuge Crowds  
+   – Diprotodon herds, giant kangaroos, you—all thirsty.  
+3. Predator Traffic Jam  
+   – Quinkana & Wonambi stake different choke-points.  
+4. Water Ration Roulette  
+   – Digging seep wells; muddy sips; infection risk.  
+5. Fire—Friend or Fickle Shield  
+   – Controlled burns to clear sight-lines; smoke suffocates you, too.  
+
+--------------------------------------------------------------------
+4.  HUMOR  
+--------------------------------------------------------------------
+Bleak irony in gathering around the same last puddle with things that can trample, gore or swallow you.
+
+--------------------------------------------------------------------
+5.  ADDITIONAL DIRECTIVES FOR ALL GUIDES
+--------------------------------------------------------------------
+•  Enforce “you” perspective; never modern tourist.  
+•  Maintain internal + transitional curiosity gaps.  
+•  Stick to calm cadence, sudden bleak punchlines.  
+•  Hit word counts; adjust evenly if deviation required.
